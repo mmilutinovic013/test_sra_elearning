@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the test_sra_elearning feature.
+ */
+
+include_once 'test_sra_elearning.features.inc';
